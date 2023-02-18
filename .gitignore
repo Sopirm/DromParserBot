@@ -1,0 +1,4 @@
+.env
+.idea/*
+venv/*
+tg_bot/config.py*
